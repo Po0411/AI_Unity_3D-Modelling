@@ -12,7 +12,10 @@
 
 아래 링크를 눌러 **Windows** ComfyUI를 다운 방법 링크로 이동합니다. ( 해당 링크는 아래 클릭 버튼을 클릭해주세요.)<br>
 **ComfyUI** 다운로드 설명 링크 가기 ➡ [**Stable diffusion comfyui** <code>**클릭**</code>](https://github.com/Po0411/XR-contents-making)<br><br>
-**ComfyUI 이미지 생성** 예제 다운 ➡ [**예제다운** <code>**클릭**</code>](https://drive.google.com/file/d/1C5IXS2emkF8EEgF4dYIHsFpVdrEr9-g7/view?usp=sharing)<br>
+**ComfyUI 이미지 생성** 예제 다운 ➡ [**예제다운** <code>**클릭**</code>](https://drive.google.com/file/d/1o_IonQZJyQW78741nldyLzbWxeMBt5h9/view?usp=sharing)<br>
 
-## ⭐챕터.1⭐
->Stable diffusion comfyui - 다운
+## ⭐챕터.2⭐
+>2D image → 3D asset
+
+**AI 3D assets** 사이트 바로 가기 ➡ [**AI 3D assets** <code>**클릭**</code>](https://www.tripo3d.ai/)<br>
+**HyperHuman - Rodin & ChatAvatar** 사이트 바로 가기 ➡ [**HyperHuman - Rodin & ChatAvatar** <code>**클릭**</code>](https://hyperhuman.deemos.com/rodin)<br>
