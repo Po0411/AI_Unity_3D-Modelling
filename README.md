@@ -23,6 +23,11 @@
 **완성 모델링** 다운 ➡ [**완성 모델링 다운** <code>**클릭**</code>](https://drive.google.com/file/d/1CTwjje967L8uZj--fx4VVWhuLMgfw9ZX/view?usp=sharing)<br>
 
 ## ⭐챕터.3⭐
->유니티에서 적용하여 플레이 해보기
+>OBJ로 변경하기
 
-**완성 모델링** 다운 ➡ [**완성 모델링 다운** <code>**클릭**</code>](https://drive.google.com/file/d/1CTwjje967L8uZj--fx4VVWhuLMgfw9ZX/view?usp=sharing)<br>
+**OBJ로 변경하기** 사이트 바로 가기 ➡ [**OBJ로 변경하기** <code>**클릭**</code>](https://fabconvert.com/kr/convert/obj)<br>
+
+## ⭐챕터.4⭐
+>OBJ로 변경된 파일 유니티에 적용하기
+
+그럼 이제 유니티 Assets 파일에 올리고 게임 개발을 진행 하시면 됩니다.
