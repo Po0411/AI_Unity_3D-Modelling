@@ -21,3 +21,8 @@
 **HyperHuman - Rodin & ChatAvatar** 사이트 바로 가기 ➡ [**HyperHuman - Rodin & ChatAvatar** <code>**클릭**</code>](https://hyperhuman.deemos.com/rodin)<br>
 
 **완성 모델링** 다운 ➡ [**완성 모델링 다운** <code>**클릭**</code>](https://drive.google.com/file/d/1CTwjje967L8uZj--fx4VVWhuLMgfw9ZX/view?usp=sharing)<br>
+
+## ⭐챕터.3⭐
+>유니티에서 적용하여 플레이 해보기
+
+**완성 모델링** 다운 ➡ [**완성 모델링 다운** <code>**클릭**</code>](https://drive.google.com/file/d/1CTwjje967L8uZj--fx4VVWhuLMgfw9ZX/view?usp=sharing)<br>
